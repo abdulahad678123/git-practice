@@ -1,2 +1,2 @@
-print("Hello, Git!")
-print("This is my first Git practice project.")
+name = "Abdul Ahad"
+print(f" my name is " {name})
